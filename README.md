@@ -249,7 +249,7 @@ The fifth step codifies the typing loci alleles, assigns fragment type, sequence
 
 *Note.1, some spreadsheet programs drop trailing zeroes and "1.10" will be indistinguishable from "1.1".  Proceed with caution and verify data integrity with a text editor.*
 
-*Note.2, Fragment Pattern ID's are based off the ordinal arrangement of fragments with identical neighbors condensed.  For example, plasmid fragment order (1,1,2,3,4) and plasmid fragment order (1,2,3,4,4) are both categorized as plasmid order (1,2,3,4).  This is done to keep the Fragment ID values consistent even if the user changes the inter-loci distance threshold to separate plasmid fragments.
+*Note.2, Fragment Pattern ID's are based off the ordinal arrangement of fragments with identical neighbors condensed.  For example, plasmid fragment order (1,1,2,3,4) and plasmid fragment order (1,2,3,4,4) are both categorized as plasmid order (1,2,3,4).  This is done to keep the Fragment ID values consistent even if the user changes the inter-loci distance threshold to separate plasmid fragments.*
 
 ### Step 6: New Plasmid Analysis
 
